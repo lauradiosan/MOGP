@@ -1,5 +1,5 @@
 Statistical tests 
-- see the folder stat
+- see the folder [stats](https://github.com/lauradiosan/MOGP/tree/main/stats)
 
 Classifiers
 - For NSGA II - see the implementation [link](https://www.egr.msu.edu/~kdeb/codes.shtml)
